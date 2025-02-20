@@ -1,5 +1,5 @@
-print('Hello, World!')
+# Author: Student Ackylla Burke
+# My first Python lab in my CIS129 course lab 2
+# I hope that this is correct because I am not sure I know what code I can put here
+But <input1-3 and repeat>
 
-Scroll down to the "Commit new file" section.
-Enter a commit message, for example, "Add initial cis129_lab02_shortStory.py." A commit message should be informative and concise, describing what this commit accomplished.
-Click the "Commit new file" button.
