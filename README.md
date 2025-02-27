@@ -1,2 +1,2 @@
-# EQ-nox
+# PIMA-ASU
 Pinky?
